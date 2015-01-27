@@ -22,8 +22,8 @@ public class RequirementsIndicesView extends ViewPart implements ISelectionProvi
 	
 	private void showMessage(){
 		MessageDialog.openInformation(new Shell(),
-				"This is a thing",
-				"Lets get this done");
+				"Testhello",
+				"Hello, Eclipse world");
 	}
 	
 	@Override
